@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2024 NeuroWeb Technologies for Web Development. All Rights reserved.</p>
+      <p className="p__opensans">2024 NeuralNes Company for Web Development. All Rights reserved.</p>
     </div>
 
   </div>
