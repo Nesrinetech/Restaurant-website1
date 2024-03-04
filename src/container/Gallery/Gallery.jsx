@@ -23,9 +23,9 @@ const Gallery = () => {
   <div className="app__gallery flex__center">
      <div className="app__gallery-content">
       <SubHeading title="Instagram" />
-      <h1 className="headtext__cormorant">Photo Gallery</h1>
+      <h1 className="headtext__cormorant">Image Showcase</h1>
       <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem'}}>Explorez notre galerie gourmande, un festin visuel capturant l'essence de notre cuisine. Parcourez des moments délicieux et des plats artistiques qui incarnent notre passion pour la gastronomie. Laissez-vous transporter à travers notre univers culinaire, où chaque image raconte une histoire de saveurs exquises et d'expériences mémorables. Bienvenue dans notre galerie où la beauté se déguste avec les yeux</p>
-      <button type="button" className="custom__button">View More</button>
+      <button type="button" className="custom__button">Discover More</button>
      </div>
 
      <div className="app__gallery-images">

@@ -90,7 +90,7 @@
   
   .headtext__cormorant {
     font-family: var(--font-base);
-    color: var(--color-golden);
+    color: var(--color-white);
     font-size: 64px;
     line-height: 83.2px;
     letter-spacing: 0.04em;
@@ -118,9 +118,7 @@
       line-height: 210px;
     }
   
-    .spoon__img {
-      width: 80px;
-    }
+    
   }
   
   @media screen and (max-width: 1150px) {

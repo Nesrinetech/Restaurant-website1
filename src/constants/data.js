@@ -59,23 +59,23 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Epicurean Excellence',
+    subtitle: 'Indulge in a culinary journey of unparalleled taste and sophistication.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Culinary Visionary',
+    subtitle: 'Experience innovative flavors crafted by our visionary chefs.',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Gastronomic Distinction',
+    subtitle: 'Celebrate exquisite dining with our award-winning hospitality.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Masterful Cuisine Award',
+    subtitle: 'Discover the artistry and skill behind our outstanding culinary creations.',
   },
 ];
 

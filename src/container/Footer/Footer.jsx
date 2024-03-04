@@ -13,15 +13,15 @@ const Footer = () => (
       <div className="app__footer-links">
         <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">9 W 53rd St, Algiers, Dz 10019, Algeria</p>
+        <p className="p__opensans">St, Algiers, Dz 16, Algeria</p>
         <p className="p__opensans">+213 212-344-1230</p>
         <p className="p__opensans">+213 212-555-1230</p>
         </div>
 
         <div className="app__footer-links_logo">
-          <img src={images.gericht} alt="footer_logo" />
-          <p className="p__opensans">"The best way to find yourself is to lose yourself in the service of others."</p>
-        <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} />
+          <img src={images.golden} alt="footer_logo" />
+          <p className="p__opensans">"TASTE THE UNEXPECTED."</p>
+        
         <div className="app__footer-links_icons">
         <FiFacebook />
         <FiTwitter />
